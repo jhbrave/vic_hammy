@@ -1,0 +1,68 @@
+html{
+    background-color: #faf6f0;
+
+}
+
+body{
+    color:#38807e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    border:2px solid #38807e;
+    border-radius: 100em;
+    margin:2em;
+    background-color: #E9DAC1;
+    padding-bottom:4em;
+  }
+  
+  
+h1{
+    position: relative;
+    font-size: 50px;
+    padding-top: 2em;
+    z-index: 1;
+}
+
+.hammy{
+    width:25%;
+    /* position:relative; */
+    position: fixed;
+    top:30px;
+    left:40px;
+    animation-delay: 2s;
+
+
+}
+
+.vic_hammy{
+    width:25%;
+    border-radius:0 0 50em 50em;
+    /* position: relative; */
+    position:fixed;
+    top:0;
+    right: 50px;
+   
+    
+    
+}
+
+/* .embed-youtube {
+    position: relative;
+    padding-bottom: 56.25%; /* - 16:9 aspect ratio (most common) */
+    /* padding-bottom: 62.5%; - 16:10 aspect ratio */
+    /* padding-bottom: 75%; - 4:3 aspect ratio */
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.embed-youtube iframe,
+.embed-youtube object,
+.embed-youtube embed {
+    border: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+} */
