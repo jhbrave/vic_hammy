@@ -23,6 +23,15 @@ h1{
     z-index: 1;
 }
 
+h2{
+    font-size:3em;
+    
+}
+
+p{
+    font-size: 2em;
+}
+
 .hammy{
     width:25%;
     /* position:relative; */
