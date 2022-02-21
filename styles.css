@@ -25,11 +25,14 @@ h1{
 
 h2{
     font-size:3em;
-    
+    position: relative;
+    z-index: 1;
 }
 
 p{
     font-size: 2em;
+    position: relative;
+    z-index: 1;
 }
 
 .hammy{
